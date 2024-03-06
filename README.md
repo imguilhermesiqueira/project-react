@@ -28,7 +28,7 @@ git clone https://github.com/imguilhermesiqueira/project-react.git
 1. Inicie o servidor de desenvolvimento:
 
 `   
- npm run dev
+npm run dev
 `
 
 2. Acesse a aplicação no navegador em: 
