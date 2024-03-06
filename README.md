@@ -33,6 +33,6 @@ http://localhost:3000.
 
 A aplicação possui as seguintes funcionalidades:
 
-Página inicial: Exibe os filmes com a melhor classificação do TMDB.
-Página de busca: Permite que o usuário busque por filmes por título.
-Página de detalhes do filme: Exibe informações detalhadas sobre um filme específico, como título, ano de lançamento, sinopse, elenco, etc.
+* Página inicial: Exibe os filmes com a melhor classificação do TMDB.
+* Página de busca: Permite que o usuário busque por filmes por título.
+* Página de detalhes do filme: Exibe informações detalhadas sobre um filme específico, como título, ano de lançamento, sinopse, elenco, etc.
