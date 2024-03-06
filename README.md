@@ -12,22 +12,30 @@ Este documento descreve a instalação, configuração e execução do projeto d
 ## Instalação
 
 1. Clone o repositório do GitHub:
+   
+`
+git clone https://github.com/imguilhermesiqueira/project-react.git
+`
 
-$ git clone https://github.com/imguilhermesiqueira/project-react.git
+3. Instale as dependências do projeto:
 
-2. Instale as dependências do projeto:
-
-$ npm install ou yarn install
+`
+ npm install ou yarn install
+`
 
 ## Execução
 
 1. Inicie o servidor de desenvolvimento:
-   
-$ npm run dev
+
+`   
+ npm run dev
+`
 
 2. Acesse a aplicação no navegador em: 
 
-$ http://localhost:3000.
+`
+http://localhost:3000.
+`
 
 ## Funcionalidades
 
